@@ -46,7 +46,7 @@
               <center><img src="img/logo-simplon.png" class="card-img-top" alt="DESC IMAGE"></center>
               <div class="card-body">
                 <h5 class="card-title">Maison de retraite</h5>
-                <p class="card-text">Une mise a jour des languages ? Votre vieux cerveaux est usé et ne suis plus ? <br>
+                <p class="card-text">Une mise a jour des langages ? Votre vieux cerveaux est usé et ne suis plus ? <br>
                   Alors la maison de retraire entre codeurs est enfin ouverte et n'attend que vous!</p>
               </div>
               <div class="card-footer">
@@ -73,7 +73,7 @@
             <div class="card border-dark mb-3" style="max-width: 39rem;">
               <center><img src="img/logo-simplon.png" class="card-img-top" alt="DESC IMAGE"></center>
               <div class="card-body">
-                <h5 class="card-title">Voyage</h5>
+                <h5 class="card-title">SIMPLON voyage</h5>
                 <p class="card-text">Coder en France c'est bien, coder à l'étranger c'est tout aussi bien ! <br>
                 Qu'importe si vous voulez explorer une ville à l'autre bout du pays ou bien à l'autre bout du monde <br>
               L'agence de voyage Simplon t'accompagne !</p>

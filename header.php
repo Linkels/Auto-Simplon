@@ -10,7 +10,7 @@
        <li class="nav-item"><a class="nav-link text-grey font-weight-bold" href="simplon.php">Autres services</a></li>
      </ul>
    <div class="logo">
-     <a href="index.php"><img src="img/logo_header.png" width=120/></a>
+     <a href="index.php"><img src="img/logo_header.png" width=90/></a>
    </div>
  </nav>
 </div>

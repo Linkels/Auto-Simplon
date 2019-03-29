@@ -7,6 +7,8 @@
 <li><a href="index.php">Home</a></li>
 <li><a href="cars.php">Voitures</a></li>
 <li><a href="simplon.php">Services</a></li>
+<li><a href="mention.php">Mentions</a></li>
+<li><a href="contact.php">Nous contacter</a></li>
 </ul>
 <ul class="social_footer_ul"
 <a href="https://www.facebook.com/Simplon.co/?fref=nf"> <img src="img/facebook.png" width=35/> </a> <i class="fab fa-facebook-f"></i></a>

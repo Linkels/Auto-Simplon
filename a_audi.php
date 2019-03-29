@@ -21,8 +21,11 @@
           <center><h1>Audi</h1></center>
             <div class="row">
               <div class="col-md-4">
-                <p><img src="img/audi-a3.png" height="350px"/>
-                  <h5>Audi A3</h5>
+                <div class="card border-light mb-3" style="max-width: 18rem;">
+                <div class="card-header"><img src="img/audi-a3.png" height="350px"/></div>
+                  <div class="card-body">
+                    <h5 class="card-title">Audi A3</h5>
+                    <p class="card-text">
                   Prix de base : <li>26 870 €</li>
                   <br>
                   Réduction Simplon <li>2 000 €</li>
@@ -32,11 +35,15 @@
                   Garantie de base : <li>3 ans / illimité</li>
                   <br>
                   Description : <br><br> Voiture sportive avec bon accélèrateur, prudence.
-                </p>
+                </div>
               </div>
+            </div>
               <div class="col-md-4">
-                <p><img src="img/audi-r8.png" height="350px"/>
-                  <h5> Audi R8</h5>
+                <div class="card border-light mb-3" style="max-width: 18rem;">
+                <div class="card-header"><img src="img/audi-r8.png" height="350px"/></div>
+                  <div class="card-body">
+                  <h5 class="card-title"> Audi R8</h5>
+                    <p class="card-text">
                   Prix de base : <li>185 000 €</li>
                   <br>
                   Réduction Simplon <li>80 764 €</li>
@@ -46,11 +53,15 @@
                   Garantie de base : <li>3 ans / illimité</li>
                   <br>
                   Description : <br><br>Non mais vous êtes sur l'autoroute!!! Arrêtez de rouler à 250km/h...
-                </p>
+                </div>
               </div>
+            </div>
               <div class="col-md-4">
-                <p><img src="img/audi-a8.png" height="350px"/>
-                  <h5> Audi A8 </h5>
+                <div class="card border-light mb-3" style="max-width: 18rem;">
+                  <div class="card-header"><img src="img/audi-a8.png" height="350px"/></div>
+                  <div class="card-body">
+                  <h5 class="card-title"> Audi A8 </h5>
+                  <p class="card-text">
                   Prix de base : <li>74 000 €</li>
                   <br>
                   Réduction Simplon <li>10 699 €</li>
@@ -60,7 +71,7 @@
                   Garantie de base : <li>3 ans / illimité</li>
                   <br>
                   Description : <br><br>Petite voiture pour rouler tranquillement à 30km/h, pas plus... puissance très limitée.. désolée!
-                </p>
+                </div>
               </div>
             </div>
           </div>

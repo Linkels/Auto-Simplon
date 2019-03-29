@@ -11,29 +11,31 @@
       <body>
         <?php include "header.php";?>
 
-        <br>  <center>   <h1> Simplon Auto</h1> </center> <br>
-           <div class="row">
-             <div class="col-md-2">
-          </div>
-          <div class="col-md-8"> <center>
+        <br>
+        <center>
+          <h1> Simplon Auto</h1> </center> <br>
+          <div class="row">
+            <div class="col-md-2">
+            </div>
+            <div class="col-md-8">
             Simplon est dorénavant un revendeur certifié d'automobile compatible aux tableaux de bord
             de technologie "Android Car©"<br>
             De plus, chaque Simploniens et Simploniennes aura droit à une réduction du prix ainsi
             qu'un OS Android plus poussée afin de coder pendant les embouteillages, de regarder des films
-            d'avoir sa playlist du téléphone ou PC sans CD, etc, etc.. </center>
-          </div>
-          <div class="col-md-2">
-          </div>
-        <div id="content">
-          <div class="card-deck mr-4 ml-4">
-            <div class="card text-white bg-dark mb-3" style="max-width: 39rem;">
-              <center><img src="img/car_mercedes.png" class="card-img-top" alt="Mercedes"></center>
-              <div class="card-body">
-                <h5 class="card-title">La Nouvelle Classe A!</h5>
-                <p class="card-text">Nouvelle voiture Classe A de Mercedes! Venez lire notre tout dernier article...</p>
-              </div>
-              <div class="card-footer">
-                <small class="text-muted"><a href="a_mercedes.php">En savoir plus</a></small>
+            d'avoir sa playlist du téléphone ou PC sans CD, etc, etc..
+            </div>
+            <div class="col-md-2">
+            </div>
+            <div id="content">
+              <div class="card-deck mr-4 ml-4">
+                <div class="card text-white bg-dark mb-3" style="max-width: 39rem;">
+                  <center><img src="img/car_mercedes.png" class="card-img-top" alt="Mercedes"></center>
+                  <div class="card-body">
+                    <h5 class="card-title">La Nouvelle Classe A!</h5>
+                    <p class="card-text">Nouvelle voiture Classe A de Mercedes! Venez lire notre tout dernier article...</p>
+                  </div>
+                  <div class="card-footer">
+                    <small class="text-muted"><a href="a_mercedes.php">En savoir plus</a></small>
               </div>
             </div>
             <div class="card border-dark mb-3" style="max-width: 39rem;">
