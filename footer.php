@@ -1,23 +1,29 @@
 <link href="css/footer.css" rel="stylesheet" type="text/css">
-      <footer class="p-2">
-        <div class="row">
-          <div class="col-sm-2">
-            <div id="logo">
-            <a href="index.php">
-            <img src="img/logo.png" width=55/>
-            </div>
-          </div>
-          <div class="tx-a-d col-sm-4">
-            <a href="https://www.facebook.com/Simplon.co/?fref=nf">
-            <img src="img/facebook.png" width=35/></a>
-            <a href="https://twitter.com/simplonco">
-            <img src="img/twitter.png" width=35/></a>
-            <a href="mailto:autosimplon@autosimplon.co">
-            <img src="img/mail.png" width=35/></a>
-          </div>
-          <div class="tx-a-d col-sm-6">
-            <a class="text-white" href="contact.php">Nous Contacter</a><br/>
-            <a class="text-white" href="mention.php">Mentions Légales</a>
-          </div>
-        </div>
-      </footer>
+<footer class="footer">
+<div class="container bottom_border">
+
+<div class="container">
+<ul class="foote_bottom_ul_amrc">
+<li><a href="index.php">Home</a></li>
+<li><a href="cars.php">Voitures</a></li>
+<li><a href="simplon.php">Services</a></li>
+</ul>
+<p class="text-center">Copyright @2019 | Simplon.co</p>
+
+<ul class="social_footer_ul">
+
+<a href="https://www.facebook.com/Simplon.co/?fref=nf"> <img src="img/facebook.png" width=35/> </a> <i class="fab fa-facebook-f"></i></a>
+
+<a href="https://twitter.com/simplonco"> <img src="img/twitter.png" width=35/> </a> <i class="fab fa-twitter"></i></a>
+
+<a href="mailto:autosimplon@autosimplon.co"> <img src="img/mail.png" width=35/> </a> <i class="fab fa-mail"></i></a>
+</ul>
+
+</div>
+
+</footer>
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
