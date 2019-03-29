@@ -1,0 +1,18 @@
+footer {
+  background-color: #3A3939;
+  width:100%;
+  padding-top:25px;
+  margin: 0;
+  color: white;
+  font-weight: bold;
+  margin-top: 120px;
+  bottom: 0;
+  }
+
+a:hover{
+  text-decoration: none;
+}
+
+.tx-a-d {
+  text-align: right;
+}
