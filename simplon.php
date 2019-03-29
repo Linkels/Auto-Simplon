@@ -36,7 +36,7 @@
                 Goutez aux plats les plus bon du coin approuvés par Benoit dit "Le beau gosse" </p>
               </div>
               <div class="card-footer">
-                <small class="text-muted"><a href="LIEN">En savoir plus</a></small>
+                <small class="text-muted"><a target="_blank" href="LIEN">En savoir plus</a></small>
               </div>
             </div>
           </div>
@@ -50,7 +50,7 @@
                   Alors la maison de retraire entre codeurs est enfin ouverte et n'attend que vous!</p>
               </div>
               <div class="card-footer">
-                <small class="text-muted"><a href="LIEN">En savoir plus</a></small>
+                <small class="text-muted"><a target="_blank" href="LIEN">En savoir plus</a></small>
               </div>
             </div>
           </div>
@@ -64,7 +64,7 @@
                 Ils excellent également dans l'architecture tout court ! <br><br><br></p>
               </div>
               <div class="card-footer">
-                <small class="text-muted"><a href="LIEN">En savoir plus</a></small>
+                <small class="text-muted"><a target="_blank" href="LIEN">En savoir plus</a></small>
               </div>
             </div>
           </div>
@@ -74,12 +74,12 @@
               <center><img src="img/logo-simplon.png" class="card-img-top" alt="DESC IMAGE"></center>
               <div class="card-body">
                 <h5 class="card-title">Voyage</h5>
-                <p class="card-text">Coder en France, mais coder à l'étranger c'est tout aussi bien ! <br>
+                <p class="card-text">Coder en France c'est bien, coder à l'étranger c'est tout aussi bien ! <br>
                 Qu'importe si vous voulez explorer une ville à l'autre bout du pays ou bien à l'autre bout du monde <br>
               L'agence de voyage Simplon t'accompagne !</p>
               </div>
               <div class="card-footer">
-                <small class="text-muted"><a href="LIEN">En savoir plus</a></small>
+                <small class="text-muted"><a target="_blank" href="LIEN">En savoir plus</a></small>
               </div>
             </div>
           </div>
@@ -94,7 +94,7 @@
               vous aides à faire le lien !</p>
               </div>
               <div class="card-footer">
-                <small class="text-muted"><a href="LIEN">En savoir plus</a></small>
+                <small class="text-muted"><a target="_blank" href="LIEN">En savoir plus</a></small>
               </div>
             </div>
           </div>
@@ -110,7 +110,7 @@
               </p>
               </div>
               <div class="card-footer">
-                <small class="text-muted"><a href="LIEN">En savoir plus</a></small>
+                <small class="text-muted"><a target="_blank" href="LIEN">En savoir plus</a></small>
               </div>
             </div>
           </div>
@@ -127,7 +127,7 @@
                 Simplon possède dorénavant un blog fais par des simploniens passionés dans leur domaine !</p>
               </div>
               <div class="card-footer">
-                <small class="text-muted"><a href="a_lamborghini.php">En savoir plus</a></small>
+                <small class="text-muted"><a target="_blank" href="LIEN">En savoir plus</a></small>
               </div>
             </div>
           </div>

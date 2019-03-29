@@ -8,16 +8,12 @@
 <li><a href="cars.php">Voitures</a></li>
 <li><a href="simplon.php">Services</a></li>
 </ul>
-<p class="text-center">Copyright @2019 | Simplon.co</p>
-
-<ul class="social_footer_ul">
-
+<ul class="social_footer_ul"
 <a href="https://www.facebook.com/Simplon.co/?fref=nf"> <img src="img/facebook.png" width=35/> </a> <i class="fab fa-facebook-f"></i></a>
-
 <a href="https://twitter.com/simplonco"> <img src="img/twitter.png" width=35/> </a> <i class="fab fa-twitter"></i></a>
-
 <a href="mailto:autosimplon@autosimplon.co"> <img src="img/mail.png" width=35/> </a> <i class="fab fa-mail"></i></a>
-</ul>
+</ul><br>
+<p class="text-center">Copyright @2019 | <a target="_blank" href="https://simplon.co/">Simplon.co</a></p>
 
 </div>
 
