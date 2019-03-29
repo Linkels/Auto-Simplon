@@ -1,6 +1,6 @@
 <link href="css/footer.css" rel="stylesheet" type="text/css">
 <footer class="footer">
-<div class="container bottom_border">
+
 
 <div class="container">
 <ul class="foote_bottom_ul_amrc">
